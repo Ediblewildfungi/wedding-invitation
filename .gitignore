@@ -16,3 +16,6 @@ dist-ssr
 *.local
 yarn-error.log
 .eslintcache
+
+# config file 
+.env
